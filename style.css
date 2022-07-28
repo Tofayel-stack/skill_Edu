@@ -1,0 +1,17 @@
+
+body{}
+
+/* style for banner  */
+.singleBanner {
+    position: relative;
+}
+.bannerInfo {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: 28%;
+}
+.bannerTitle {
+    font-size: 4em;
+}
