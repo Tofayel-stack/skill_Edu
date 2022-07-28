@@ -15,3 +15,23 @@ body{}
 .bannerTitle {
     font-size: 4em;
 }
+
+/* common style for section title */
+
+.sectionTitle h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sectionTitle p {
+    text-align: center;
+    color: #6f6b6bcf;
+}
+
+/* course photo responsive */
+
+.coursePhoto {
+    width: 100%;
+}
