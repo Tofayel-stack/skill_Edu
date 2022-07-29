@@ -35,3 +35,21 @@ body{}
 .coursePhoto {
     width: 100%;
 }
+
+/* style for social icon */
+.socialIcon span a {
+    background: #545151;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+.socialIcon {
+    margin: 20px 0px;
+}
+
+.socialIcon span a i {
+    height: 20px;
+    width: 20px;
+    color: #efeae1;
+}
