@@ -53,3 +53,19 @@ body{}
     width: 20px;
     color: #efeae1;
 }
+
+
+
+/* banner text responsiv */
+
+@media only screen and (max-width: 600px) {
+    /* body{
+        background-color: red !important;
+    } */
+    .bannerTitle{
+        font-size: 1.5rem;
+    }
+    .bannerPera{
+        font-size: 10px;
+    }
+}
